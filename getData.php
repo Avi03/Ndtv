@@ -90,7 +90,7 @@ span.psw {
 <table class="table table-striped">
 
 <thead>
-<caption class="fontsize-20">User Details</caption>
+<caption class="fontsize-20">Employee Details</caption>
 
 </thead>
 <tbody>
